@@ -14,6 +14,7 @@
 10. [Continuous delivery](https://en.wikipedia.org/wiki/Continuous_delivery)
 11. [Mozilla organizational archetypes](https://docs.google.com/presentation/d/1ujYh0To0cIw7UrZeCnvLZd3WDzy93Hifu7XgVfN_WUs/edit#slide=id.g3ffffa9fe6_0_88)
 12. Open Hardware Asociation definitions
+13. [What is freesoftware](https://www.gnu.org/philosophy/free-sw.en.html)
 
 ## Empirical studies:
 31. Exploring the Structure of Complex Software Designs: An Empirical Study of Open Source and Proprietary Code. For the relations between architecture, organization and design implications.
@@ -28,12 +29,12 @@ Kevin
 39. Ecars
 40. [Database of different printers](https://docs.google.com/spreadsheets/d/1nzoZIZzuM93PNnExO56mQe_wns3hJ8MoWnsS4q-uwY0/edit#gid=0)
 41. [RepRap Family Tree](https://reprap.org/wiki/RepRap_Family_Tree)
-
+42. [Interview Mazimo Banzi](https://www.youtube.com/watch?v=pU4eUY-MYo4&ab_channel=WIRED)
 
 
 ## Complementary References
 101. [What is a patch](https://softwareengineering.stackexchange.com/questions/138385/what-is-the-differences-between-committing-and-patching). This is very important to Understand Linux contribution guidelines.
-
+102. [Code based design](https://www.youtube.com/watch?v=joMeYedXKoA&feature=youtu.be&utm_campaign=Code+Based+Design%3A+The+Workflow+Revolution+Webinar+-+Oct+2018&utm_source=hs_email&utm_medium=email&utm_content=67166406&_hsenc=p2ANqtz--NWVzwccFGTIwVGP1UEUV5fM-e5YSIo3kQyDiC-FEQ5hMdHm9ulmoL96OAJiOHpDdKoHUuok7CpvmsG8LdvRDj8eq6gw&_hsmi=67166406&ab_channel=UXPin) Interesting to understand how things are moving in digital design, maybe is also valid for 3D designs?
 
 
 ## Case studies:
