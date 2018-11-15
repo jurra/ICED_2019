@@ -3,9 +3,7 @@ This work attempts to capture significant aspects of the context of open source 
 #### Brief introduction to Activity Theory
 This research uses the expanded Activity Theory framework developed by Engestrom [REFERENCE]. This framework provides a consistent model to analyze collective processes like product design and development as part of a social context. This approach considers tools and procedures as part of a broader set of human interactions.
 #### Design
-
-- The Authors familiarity with certain open source projects.
-- The availability of data like discussions, documentation, and resources to pursue this study.
+We describe at a Meso level these projects as activity  systems that evolve overtime, and how their community composition, activity objects, as well as roles, rules, and artifacts reflect such evolution. Furthermore we attempt to describe how the outcomes of the activity system develop, along with the activity structure.  
 
 The two sets of cases (three for software, and three for hardware) are analyzed independently with respect to their own differences and similarities considering the different components of the Activity System model.
 - What is the main object of the activity
@@ -22,6 +20,8 @@ We selected projects that present basic similarities with regard to basic freedo
 - Interviews and talks from founders of free software and open source movement.
 - Forums of different projects like RepRap.
 - Project and product documentation
+- The Authors familiarity with certain open source projects.
+- The availability of data like discussions, documentation, and resources to pursue this study.
 
 ### Procedure
 
