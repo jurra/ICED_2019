@@ -1,0 +1,105 @@
+%% Sample-Paper.tex
+%% V1.0
+%% Developed for Authors to create their manuscript.
+%%
+%% This file uses the coding defined in the LaTex template ICED-Paper.cls
+
+\documentclass{ICED-Paper}%%%%where ICED-Paper is the template name
+
+%The authors can define any packages after the \documentclass{ICED-Paper} command.
+
+%\usepackage{algorithmic} for describing algorithms
+%\usepackage{subfig} for getting the subfigures e.g., "Figure 1a and 1b" etc.
+
+%The author can find the documentation of the above style file and any additional
+%supporting files if required from "http://www.ctan.org"
+
+% *** Do not adjust length that controls the trim size and margins ***
+
+\begin{document}
+
+%The title of the paper, names of authors, affiliations of authors, abstract
+%and keywords for the paper \textbf{will be produced automatically} from the
+%ConfTool conference management system, based on the data that you enter in
+%the ConfTool. So, don't include those details in this document.
+
+\section{Level 1 heading}
+Text here.
+
+\subsection{Level 2 heading}
+Text here.
+
+\subsubsection{Level 3 heading}
+Text here.
+\begin{equation}%Numbered equation
+C = A + B
+\end{equation}
+
+Text here.
+\begin{equation*}%Unnumbered equation
+C = A + B
+\end{equation*}
+
+Text here.
+\begin{enumerate}
+\item Numbered list item
+\end{enumerate}
+
+Text here.
+\begin{itemize}
+\item Bulleted list item
+\end{itemize}
+
+Text here.
+\begin{description}
+\item Unnumbered list item
+\end{description}
+
+What about figure \ref{fig1}?
+
+\begin{figure}
+\centering{\includegraphics{fig1}}% Replace "fig1" with appropriate figure file name
+\caption{Figure caption here\label{fig1}}
+\end{figure}
+
+Text here.
+
+\begin{table}
+\processtable{Table title here\label{tab1}}
+{\tabcolsep=2pc\begin{tabular}{|l|c|}%Number of columns has to be defined here
+\hline
+Table text here & Table text here\\%Table body
+\hline
+Table text here & Table text here\\%Table body
+\hline
+\end{tabular}}{Table footnote here}
+\end{table}
+
+\section{Methodology}
+
+
+\section{Findings}
+\subsection{Essential artifacts in free peer production activities}
+
+\subsection{}
+
+\section*{References}
+
+\begin{thebibliography}
+
+\bibitem[authorname(0000)]{author0000}
+Reference entry here.
+
+\end{thebibliography}
+
+\section*{Acknowledgments}
+
+Acknowledgments text here.
+
+\appendix
+
+\section*{Appendix}
+
+Appendix text here.
+
+\end{document}
