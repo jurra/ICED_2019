@@ -1,5 +1,8 @@
 ## Methodology
-This work attempts to capture significant aspects of the context of open source projects. To map these contexts we use Activity Theory framework[REFERENCE]. This framework allowed us to capture patterns of behavior and collaborative dynamics similarities and differences, beyond the specificities of what tools or systems are used, how tools reflect intagible aspects of socio-technical systems like values, motivations, community rules as well as roles within collaborative dynamics.
+This work attempts to capture significant aspects of peer to peer dynamics in the context of open source projects. To map these contexts we use Activity Theory framework[REFERENCE]. This framework allowed us to capture patterns of behavior and collaborative dynamics similarities and differences, beyond the specificities of what tools or systems are used, how tools reflect intagible aspects of socio-technical systems like values, motivations, community rules as well as roles within collaborative dynamics.
+#### Defining open peer to peer production
+- [ ] Peer to peer happens everywhere, but open collaborative peer to peer means that also unknown peers, in many cases directed unrelated with other peers geographically, ....
+
 #### Brief introduction to Activity Theory
 This research uses the expanded Activity Theory framework developed by Engestrom [REFERENCE]. This framework provides a consistent model to analyze collective processes like product design and development as part of a social context. This approach considers tools and procedures as part of a broader set of human interactions.
 #### Design
@@ -10,6 +13,7 @@ The two sets of cases (three for software, and three for hardware) are analyzed 
 - What is the main outcome(s) or product(s) of such activity
 - What rules and tools they use to organize their collaboration
 - What interesting aspects stand out in the case with regard to the outcomes, motivations, expectations as well as the collaboration process.
+
 
 - Case study of diverse open source software and hardware projects with different characteristics:
 We selected projects that present basic similarities with regard to basic freedoms mentioned in the previous section:

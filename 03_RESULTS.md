@@ -1,36 +1,44 @@
 ## Results
-In this section we expose some prominent characteristics of the peer to peer interactions using the Activity Theory framework. We study at a very general level how peer to peer requirements are reflect in the artifacts, object, subject, community, rules and
+In this section we expose some prominent characteristics of the peer to peer interactions using the Activity Theory framework. We study at a very general level how peer to peer "structural conditions" are reflect in the artifacts, object, subject, community, rules and division of labor.
 
 [//]:# (Open peer to peer collaborative work (No control on peers but only on the process)
 
-#### Essential peer to peer artifacts
-From an Activity Theory stand point we can identify many artifacts within open source projects based on the different processes that take place. Mapping out all these artifacts is beyond the scope of this work. Nevertheless there are specific artifacts that are essential to enable an open and horizontal peer to peer collaborative process:
-- **License** which describes in legal terms what can and cannot be done with the source code ranging from ethical issues to commercial and distribution issues.[Refer to the GPL license].Since the FREE Software licenses were created, every open source project has adopted licenses.
+#### Essential peer to peer artifacts found in the open source projects studied
+From an Activity Theory stand point we can identify many artifacts within open source projects based on the different processes that take place. Mapping out all these artifacts is beyond the scope of this work. Nevertheless there are specific artifacts that are essential to enable an open and horizontal peer to peer collaborative process, or what we have been calling peer production artifacts:
+- **Foundational artifacts**. These kind of artifacts describe in broader terms the main rules of the game for open source projects. Among these artifacts we can find perhaps the most important which is the **license** under which the content(source) is released (open) to the public.**Licenses** describe in legal terms what can and cannot be done with the source code ranging from ethical issues to commercial and distribution issues. They also often describe how to give credit to authors, and properly
+release new improvments, but also distribute the content and more. It is interesting to notice that since the FREE Software licenses were created, every open source project has adopted or created similar licenses to distribute and share code, but also visual images as well as CAD files. There are other artifacts the specify how to contribute to the project often called *contributing guidelines*, but also the code of conduct, and instructions on how to participate.
+- **Peer content production artifacts** There are variations in the way content creation takes place, but ultimately it requires of a web service, where other peers can access and modify the content created collaboratively. These ranges from dedicated git based services like github, or gitlab (Arduino, ), but also wikis
+- **Peer review artifacts** Like peer content production, peer review relates to a more operational level within the activity system. In the case of software, version control of the code is essential. This can be implemented also in different ways, but the standard and widely used system for version control at the moment in the software industry is git, for several reasons that go beyond our scope. Other tools for peer review such as from mailing lists, forums, and chats were found in both software and hardware cases.
 
-- **Means to publish their work:** Wikis and git repositories..
-- **Contributing guidelines**
-- **Product documentation***
-- **Peer review tools**
+### The object and the subject in open collaborative peer to peer production
+[//]:# (user led innovation and improvement)
+Linus Torvalds, the creator of the Linux kernel, on an interview reveals:
+> Every single project I haved worked on was for something I needed.
 
-### The Object and the subject in peer to peer: user led projects
-An interesting phenomenon in the projects we have studied is that all their founders and main collaborators have been at certain point users with particular needs and capacities to improve their products they have been using. Furthermore they have become contributors, developers and entrepeneurs within their communities, becoming expert developers, profesionals and community leaders. For instance Linus Torvalds developed the Linux Kernel partly because he needed, partly because he enjoued programming, he says that he never imagined Linux would evolve into what it is today. Richard Stallman the father of the FREE/Software movement and the GNU/Linux Project, refused to accept that computer scientists, programmers and users in general were not able to do study the source code.
+**We have found in our study that all the open source projects have been developed by lead users that have had some dissatisfaction with previous solutions available.** Lead users according to...
+
+All these projects have started because at a certain point users with particular needs and problems, haven't found the solution they have been looking for to their problems. Moreover these *lead users* have had the capacities and permits to build a new product, or improve a current open source product.  
+
+For instance Linus Torvalds developed the Linux Kernel partly because he needed, partly because he enjoyed programming, he says that he never imagined Linux would evolve into what it is today. Richard Stallman the father of the FREE/Software movement and the GNU/Linux Project, refused to accept that computer scientists, programmers and users in general were not able to do study the source code.
 Josef Prusa, a main contributor in the RepRap community explains in an interview:
 >  originally got into 3D printing because I was into music, and I started to build my own MIDI controllers. I needed all sorts of little knobs and faders. So that’s how I found 3D printing. I started to build one myself, but it took so much time and so many parts that I eventually started to make it simpler. I started to improve it and give back, and so that’s how the Prusa Simplified Mendel came to the world.
 
-Open Source Ecology was also motivated by a set of conflicts that Marcin Jakubowski experienced after starting a farm. He was frustrated with the fact that he had to pay a lot of money and invest a lot without good results:
+Open Source Ecology was also motivated by the difficulties and circumstances that Marcin Jakubowski experienced after starting a farm:
 > I bought a tractor then it broke, I paid to get it repaired, then it broke again....I realized that the truly appropriate, low-cost tools that I needed to start a sustainable farm....just didn't exist.
 
-In the case of Git and Gitlab the original motivation was again to solve problems meeting specific requirements.
+In the case of Git and Gitlab the original motivation was again to solve problems meeting specific requirements. Git started as a tool for version control on the Linux project. Version control is an essential artifact in the context of software.
+>...we were in this bad spot where we had thousands of people
+who wanted to participate, but in many ways, I was the kind of break point,where I could not scale to the point where I could work
+with thousands of people. So Git is my second big project which was only created for me to maintain my first big project.(Linux)
 
+Similarly Gitlab was started based on a need to collaborate on software development teams by a software developed. In the case of Arduino the main motivation was to create simple and low cost tools for creating digital projects by non-engineers in the an academic context. Before launching the project, the main users teachers and students, had difficulties because of not having a low cost solutions to teach electronics. Before Arduino, it was very expensive for students to work with microcontrollers during their studies.
 
-At a certain moment he felt it was worth sharing it, or releasing and he chose an open source license (artifact), to avoid dealing with others wanting to take advantage of his work.
+#### The "expansion" of the object, new possibilities and paths within *free peer to peer* communities
+In the six projects, it was found that the object, in other words, the composition of needs and desires that the projects aim to full fill evolve by expansion. Git it is now also being used for computer files that are different from text files, the standard format used for computer programs. It has been found for instance, within the Gitlab community interactions designers have been talking about extending git for image based version control (for two dimensional and threedimensional representation of content).
 
+The Linux Kernel and Arduino were both projects that originated according to the authors, not having on its focus - [ ]
 
-> Teensy by PJRC – Paul has contributed a lot of code, bug reports, pull requests and to the discourse in general.
-Flora by Adafruit – Limor has contributed over 100 libraries and countless tutorials about Arduino becoming one of the most important members of the Arduino ecosystem.
-
-#### The "expansion" of the object, new possibilities and paths within communities
-Linux is actually part of a bigger project also known as the GNU/Linux project. Linux is a very important component in the operating system and it can be understood in this context as an extension, or important completion of the GNU project started by Richard Stallman.
+For instance if was found that the powercube and the compressed earth block machine, have been redesigned by external lead users. Linux is actually part of a bigger project also known as the GNU/Linux project. Linux is a very important component in the operating system and it can be understood in this context as an extension, or important completion of the GNU project started by Richard Stallman.
 
 The GNU project, as well as the licenses proposed by Stallman have developed towards what he called a free operating system which developments belongs to the public domain and is led by a open collaborative communities. This is again a particular vision (object) on the type of product he needed.  
 
@@ -40,14 +48,23 @@ enjoyed programming...and there was no open source, really, on my radar at all.
 Linus Torvalds, the creator of the Kernel component of the GNU/Linux operating system had very personal motivations when he started developing the kernel:
 > I started it as one in a series of many projects I had done at the time for myself, partly because I needed the end result, but even more because I just enjoyed programming.
 
+Examples of object expansion:
+> Teensy by PJRC – Paul has contributed a lot of code, bug reports, pull requests and to the discourse in general.
+Flora by Adafruit – Limor has contributed over 100 libraries and countless tutorials about Arduino becoming one of the most important members of the Arduino ecosystem.
+
 
 #### The "expansion" of the subject in peer to peer Activity Systems
 **Community composition the pyramid of users**
 - [ ] Here I talk about community of users, user groups examples...
 
+> It didnt even started with people contributing with code, but people contributing with ideas.
 
-**Division of labor** users producers are kings
+**Division of labor** users producers are kings, users are allowed to play different roles, they can participate and there are no limits to how much they can contribute or which roles to play...(Entrepeneurs,)
 
+Concrete persons can play different roles,
+
+
+Furthermore they have become contributors, developers and entrepeneurs within their communities, becoming expert developers, profesionals and community leaders.
 
 
 
@@ -63,6 +80,7 @@ In the case of Linux, for instance there are literally hundreds of distributions
 Besides these there are third party distributions including "clones", "derivatives and counterfeits".
 In open hardware "clones" refer to distributors that basically replicate the product based on the open source available, and benefit without clear contribution to the community
 
+## The "Bootstrapping" dynamics in open peer to peer collaboration
 
 #### Community composition:
 In all the projects except Open Source Ecology, there has been a sustained increase of participants and users adopting the open source products released. For instance Linux started as part of a very small group of hackers and computer scientists in 1992,....
