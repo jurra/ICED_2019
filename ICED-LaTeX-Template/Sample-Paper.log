@@ -1,10 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.16)  16 NOV 2018 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.17)  17 NOV 2018 22:10
 entering extended mode
-**d:/01_PROJECTS/NoteBook/notes/DOING/Petra_Article/ICED-LaTeX-Template/Sample-
-Paper.tex
-
-(d:/01_PROJECTS/NoteBook/notes/DOING/Petra_Article/ICED-LaTeX-Template/Sample-P
-aper.tex
+**./Sample-Paper.tex
+(Sample-Paper.tex
 LaTeX2e <2018-04-01> patch level 5
 (ICED-Paper.cls
 Document Class: ICED-Paper 2018/07/26 ICED-Paper, Version 1.0
@@ -12,37 +9,37 @@ LaTeX Document Class for Conference Proceedings (ICED17)
 (C) 2018 Nova Techset Pvt. Ltd.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(/home/jose/.miktex/texmfs/install/tex/latex/base/t1enc.def
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\crop\crop.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/crop/crop.sty
 Package: crop 2003/05/20 v1.9 crop marks (mf)
 \stockwidth=\dimen102
 \stockheight=\dimen103
 \CROP@index=\count80
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
@@ -50,18 +47,18 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \CROP@offset=\count81
 Package crop Info: Local config file crop.cfg used on input line 605.
 
-("C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\crop.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/home/jose/.miktex/texmfs/install/tex/xelatex/xetexconfig/crop.cfg))
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/tools/array.sty
 Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \col@sep=\dimen106
 \ar@mcellbox=\box26
@@ -71,7 +68,7 @@ Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
 \backup@length=\skip42
 \ar@cellbox=\box27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amscls/amsthm.sty
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks16
 \thm@bodyfont=\toks17
@@ -83,24 +80,24 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip45
 \dth@everypar=\toks21
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2017/09/02 v2.17a AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks22
 \ex@=\dimen108
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen109
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count82
@@ -141,23 +138,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\upref.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/amscls/upref.sty
 Package: upref 2007/03/14 v2.04
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count94
@@ -166,17 +163,17 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box30
 \rot@mess@toks=\toks27
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\sttools\stfloats.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/sttools/stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
 \@dblbotnum=\count95
 \c@dblbotnumber=\count96
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\marginnote\marginnote.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/marginnote/marginnote.sty
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
 \c@mn@abspage=\count97
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -212,13 +209,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \textlinehtbox=\box31
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 152.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+(/home/jose/.miktex/texmfs/install/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \textlineheight=\dimen117
@@ -241,25 +238,25 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 \tempdime=\dimen122
 \temptbox=\box33
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip53
 \bibsep=\skip54
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count107
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(/home/jose/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(/home/jose/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -300,27 +297,27 @@ Package atbegshi Info: Package `crop' patched.
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/home/jose/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen123
 \Hy@linkcounter=\count108
 \Hy@pagecounter=\count109
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(/home/jose/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count110
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/home/jose/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 4409.
@@ -354,12 +351,12 @@ LaTeX Info: Redefining \pageref on input line 6470.
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(/home/jose/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
 \Fld@listcount=\count116
 \c@bookmark@seq@number=\count117
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -368,7 +365,19 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 906.
 )
-(Sample-Paper.aux)
+(Sample-Paper.aux
+
+Sample-Paper.aux:24: Package natbib Error: Bibliography not compatible with aut
+hor-year citations.
+(natbib)                Press <return> to continue in numerical citation style.
+
+
+See the natbib package documentation for explanation.
+Type  H <return>  for immediate help
+Check the bibliography entries for non-compliant syntax,
+or select author-year BibTeX style, e.g. plainnat
+
+)
 \openout1 = `Sample-Paper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -385,7 +394,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ (/home/jose/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count118
 \scratchdimen=\dimen127
@@ -398,10 +407,10 @@ LaTeX Font Info:    ... okay on input line 19.
 \MPnumerator=\count122
 \makeMPintoPDFobject=\count123
 \everyMPtoPDFconversion=\toks29
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) (/home/jose/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -417,10 +426,10 @@ Package crop Info: using `pdftex' graphics driver on input line 19.
 \AtBeginShipoutBox=\box35
 Package hyperref Info: Link coloring ON on input line 19.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+(/home/jose/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/home/jose/.miktex/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count124
@@ -433,80 +442,23 @@ LaTeX Info: Redefining \nameref on input line 19.
 \@outlinefile=\write3
 \openout3 = `Sample-Paper.out'.
 
-Package epstopdf Info: Source file: <fig1.eps>
-(epstopdf)                    date: 2018-09-04 16:20:02
-(epstopdf)                    size: 1743906 bytes
-(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-09-04 16:20:20
-(epstopdf)                    size: 51967 bytes
-(epstopdf)             Command: <epstopdf --outfile=fig1-eps-converted-to.pdf f
-ig1.eps>
-(epstopdf)             \includegraphics on input line 29.
-Package epstopdf Info: Output file is already uptodate.
-<fig1-eps-converted-to.pdf, id=4, 256.96pt x 75.28125pt>
-File: fig1-eps-converted-to.pdf Graphic file (type pdf)
-<use fig1-eps-converted-to.pdf>
-Package pdftex.def Info: fig1-eps-converted-to.pdf  used on input line 29.
-(pdftex.def)             Requested size: 256.95937pt x 75.28105pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 30.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 28.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+(/home/jose/.miktex/texmfs/install/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.03749> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 43
-.
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 43
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 43
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 43
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 43
-.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 43.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11.04124> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.17058> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.6248> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <11.04124> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 46.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.03749> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 58.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.03749> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 58.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 42.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.03749> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 58.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
  [2
 
-{C:/Users/JosePro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./fig1-ep
-s-converted-to.pdf>]
+{/home/jose/.miktex/texmfs/data/pdftex/config/pdftex.map}]
 
 Package marginnote Warning: Consecutive even pages found.
 (marginnote)                Note, it is not recommended to use consecutive
@@ -517,33 +469,31 @@ Package marginnote Warning: Consecutive even pages found.
 (marginnote)                changing the page numbering on page 2.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 100.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
- (Sample-Paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+e 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
+(Sample-Paper.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `Sample-Paper.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 7153 strings out of 492970
- 100482 string characters out of 3135848
- 194671 words of memory out of 3000000
- 10866 multiletter control sequences out of 15000+200000
- 36399 words of font info for 55 fonts, out of 3000000 for 9000
+ 7038 strings out of 492971
+ 98801 string characters out of 3133318
+ 193598 words of memory out of 3000000
+ 10794 multiletter control sequences out of 15000+200000
+ 24155 words of font info for 29 fonts, out of 3000000 for 9000
  1151 hyphenation exceptions out of 8191
- 35i,10n,34p,327b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/he
-lvetic/uhvro8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pf
-b>
-Output written on Sample-Paper.pdf (2 pages, 96152 bytes).
+ 35i,5n,34p,259b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/jose/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/jose/.m
+iktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/jose/.miktex/te
+xmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/jose/.miktex/texmfs/in
+stall/fonts/type1/urw/times/utmr8a.pfb></home/jose/.miktex/texmfs/install/fonts
+/type1/urw/times/utmri8a.pfb>
+Output written on Sample-Paper.pdf (1 page, 50531 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

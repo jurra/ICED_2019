@@ -23,25 +23,7 @@
 %ConfTool conference management system, based on the data that you enter in
 %the ConfTool. So, don't include those details in this document.
 
-What about figure \ref{fig1}?
 
-\begin{figure}
-\centering{\includegraphics{Fig1.eps}}% Replace "fig1" with appropriate figure file name
-\caption{Figure caption here\label{fig1}}
-\end{figure}
-
-Text here.
-
-\begin{table}
-\processtable{Table title here\label{tab1}}
-{\tabcolsep=2pc\begin{tabular}{|l|c|}%Number of columns has to be defined here
-\hline
-Table text here & Table text here\\%Table body
-\hline
-Table text here & Table text here\\%Table body
-\hline
-\end{tabular}}{Table footnote here}
-\end{table}
 
 \section{Introduction}
 \iffalse
@@ -50,6 +32,8 @@ Table text here & Table text here\\%Table body
     Open Source is an example of peer production in the sense that there is distributed and not centrally controled, peer to peer basis
 
 \fi
+
+
 
 \subsection{The benefits of studying open source projects for design theory and methodology}
 
@@ -67,6 +51,10 @@ Table text here & Table text here\\%Table body
 \iffalse
     here I explain the case selected, the rationale behind this selection, as well as the materials used, but also specific questions to answer the general questions,
 \fi
+
+Text here \citep{ConcreteMath}.
+Text here \citep{p2pEconomy}.
+Use hardvard citation style.
 
 \section{Findings}
 \subsection{Essential artifacts in free based peer production activities}
@@ -94,8 +82,13 @@ Table text here & Table text here\\%Table body
 
 \begin{thebibliography}
 
-\bibitem[authorname(0000)]{author0000}
-Reference entry here.
+\bibliographystyle{unsrtnat}
+
+  \bibitem{ConcreteMath}
+  R.L. Graham, D.E. Knuth, and O. Patashnik, \emph{Concrete
+  mathematics}, Addison-Wesley, Reading, MA, 1989.
+
+  \bibitem{p2pEconomy}Bauwens, M. (2005). The political economy of peer production. CTheory, 12-1.
 
 \end{thebibliography}
 
