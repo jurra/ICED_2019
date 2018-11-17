@@ -1,5 +1,5 @@
-# Title: Peer Production and Open Source: a new topic for design methodology?
-# Title: Understanding the ongoing transfer of open source software practices to open source hardware
+[//]:# (Title: Peer Production and Open Source: a new topic for design methodology?)
+[comment]:# (Title: Understanding the ongoing transfer of open source software practices to open source hardware)
 
 ## Foundational references:
 1. Kaptelinin Acting with technology
@@ -16,7 +16,15 @@
 12. Open Hardware Asociation definitions
 13. [What is freesoftware](https://www.gnu.org/philosophy/free-sw.en.html)
 14. [A Brief History of Hackerdom](ftp://ftp.align.de/pub/mirror/linuxtag2002/buecher/raymond/hacker-history.pdf)
-15. A letter to hobyysts by Bill gates
+15. [Towards a framework for implementing open source in Public Administrations](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6308021)
+16. [Open Source definition and date of release](https://en.wikipedia.org/wiki/Bruce_Perens)
+17. [OS Documentary prominent figures in open source](http://www.revolution-os.com/about.html)
+18. [Stallmans talk on democratic work and user freedom](https://www.youtube.com/watch?v=_SpUWRrd6cs&ab_channel=ArturoDiCorinto)
+19. [Activity Theory and Human-Computer Interaction](https://www.ics.uci.edu/~corps/phaseii/nardi-ch1.pdf).
+> These goes in the methods section.
+
+20. [The Cathedral and the Bazaar](http://www.unterstein.net/su/docs/CathBaz.pdf)
+> Anthropological analysis of a recognized free software developer talks about the model and success criterion for a p2p open source succesfull product.
 
 ## Reference that provide empirical sources and evidence for the aims of this work
 31. Exploring the Structure of Complex Software Designs: An Empirical Study of Open Source and Proprietary Code. For the relations between architecture, organization and design implications.
@@ -32,7 +40,28 @@ Kevin
 40. [Database of different printers](https://docs.google.com/spreadsheets/d/1nzoZIZzuM93PNnExO56mQe_wns3hJ8MoWnsS4q-uwY0/edit#gid=0)
 41. [RepRap Family Tree](https://reprap.org/wiki/RepRap_Family_Tree)
 42. [Interview Mazimo Banzi](https://www.youtube.com/watch?v=pU4eUY-MYo4&ab_channel=WIRED)
+43. A letter to hobyysts by Bill gates
+> Shows how the conflict with communities that shared code started. It is also part of the evidence that also shows how proprietary software is a younger notion than open source practices.
 
+44. [Limux case study in germany](https://ieeexplore.ieee.org/abstract/document/7839852)
+45. [Interview with Richard Stallman](https://www.computerworld.com.au/article/195096/stallman_want_freedom_don_t_follow_linus_torvalds/)
+46. [Distrowatch](https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&status=All)
+> A database of Linux distributions
+
+47. [Arduino genealogy](https://blog.arduino.cc/wp-content/uploads/2013/11/EvolutionArduino.png)
+> Evidence of different use of Arduino
+
+48. [History of Gitlab](https://about.gitlab.com/company/history/#2011-start-of-gitlab)
+> For specific Analysis of Gitlab as an Activity System
+
+49. [Arduino clones](https://blog.arduino.cc/2013/07/10/send-in-the-clones/)
+> About rules ethics and communities
+
+50. [History of the reprap project](https://all3dp.com/history-of-the-reprap-project/)
+51. [RepRap history tree Make magazine](https://makezine.com/2015/12/02/a-reprap-family-tree-tracking-the-printers-that-started-it-all/)
+
+52. [Linus Torvalds talks about his motivations](http://www.linux-magazine.com/Online/News/Linus-Torvalds-Talks-About-His-Motivation)
+53. [Open Source Ecology History](http://wiki.p2pfoundation.net/Open_Source_Ecology)
 
 ## Complementary References
 101. [What is a patch](https://softwareengineering.stackexchange.com/questions/138385/what-is-the-differences-between-committing-and-patching). This is very important to Understand Linux contribution guidelines.

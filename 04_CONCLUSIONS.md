@@ -3,4 +3,6 @@ These complex collaboration tools and technologies, like git reflect, or embed v
 - The way the community organizes and leverage collective potential is what matters. Some tools facilitate these
 - Lead users innovators, resonates with the concept of design expertise by Cross.
 
+**The benefits of empowering users by design (This can go to the discussion)**
+
 ## Discussion
