@@ -23,17 +23,34 @@
 %ConfTool conference management system, based on the data that you enter in
 %the ConfTool. So, don't include those details in this document.
 
+What about figure \ref{fig1}?
 
+\begin{figure}
+\centering{\includegraphics{Fig1.eps}}% Replace "fig1" with appropriate figure file name
+\caption{Figure caption here\label{fig1}}
+\end{figure}
+
+Text here.
+
+\begin{table}
+\processtable{Table title here\label{tab1}}
+{\tabcolsep=2pc\begin{tabular}{|l|c|}%Number of columns has to be defined here
+\hline
+Table text here & Table text here\\%Table body
+\hline
+Table text here & Table text here\\%Table body
+\hline
+\end{tabular}}{Table footnote here}
+\end{table}
 
 \section{Introduction}
 \iffalse
     here we have to define what is the current state of understanding this phenomenon in the context of design studies and research,
-
     Open Source is an example of peer production in the sense that there is distributed and not centrally controled, peer to peer basis
-
+    p2p collaborative model, management of the collaboration process, 
 \fi
 
-
+This is a citation \cite{cite_key1}, because wahtever this other person \cite{cite_key2} it is fine.
 
 \subsection{The benefits of studying open source projects for design theory and methodology}
 
@@ -51,10 +68,6 @@
 \iffalse
     here I explain the case selected, the rationale behind this selection, as well as the materials used, but also specific questions to answer the general questions,
 \fi
-
-Text here \citep{ConcreteMath}.
-Text here \citep{p2pEconomy}.
-Use hardvard citation style.
 
 \section{Findings}
 \subsection{Essential artifacts in free based peer production activities}
@@ -80,18 +93,17 @@ Use hardvard citation style.
 
 \section*{References}
 
-\begin{thebibliography}
-
 \bibliographystyle{unsrtnat}
+
+  \bibitem{p2pEconomy}Bauwens, M. (2005). The political economy of peer production. CTheory, 12-1.
 
   \bibitem{ConcreteMath}
   R.L. Graham, D.E. Knuth, and O. Patashnik, \emph{Concrete
   mathematics}, Addison-Wesley, Reading, MA, 1989.
 
-  \bibitem{p2pEconomy}Bauwens, M. (2005). The political economy of peer production. CTheory, 12-1.
+
 
 \end{thebibliography}
-
 \section*{Acknowledgments}
 
 Acknowledgments text here.
