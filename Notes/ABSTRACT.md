@@ -1,0 +1,4 @@
+- These work is a first step towards understanding how open source par
+- Peer to Peer and collaboration is key, new way of working. Open Source projects tend to be more collaborative and accessible by design.
+- Open Source practices and culture is being adopted by other non software communities like designers, electronic engineers, mechanical engineers, public organizations and companies.  
+- We select open source projects, because the design results, and the history of projects is documented and traceable.
