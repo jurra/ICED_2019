@@ -67,26 +67,24 @@ Over the last three decades there has been an increasing commercial adoption of 
 Similarly there has been an increasing adoption of the FOSS philosophy and practices in the hardware domain labeled as Free Open Source Hardware (FOSH)\cite{FH}, \cite{what_OH} (see Rubows technical report on FOSH \cite{Rubow} for an overview of open hardware projects until 2008). Arduino microcontrollers and RepRap 3D printers are perhaps the most prominent products in open hardware, with not only considerable adoption, but also with considerable commercial success. Adafruits and Sparkfun are two well known vendors of open hardware projects. In the case of Adafruits it is quite well known that its founder Limor Fried, also collaborates intensively within the Open Hardware Communities \cite{Million_Dollar}. Some scholars have already shed light on the similarities and differences of FOSS and FOSH, as well as critical success factors to transfer and adopt open source in the context of tangible products, \cite{OSTangible}, \cite{OSTangibleGoods}, as well as in the context of the manufacturing domain \cite{digitalCommons}. These body of research sheds light on the similarities of FOSS and FOSH but also emphasize that the experience is not directly transferable without adaptations and domain related considerations in the context of tangible goods. There is still an ongoing debate on the potentials and limitations of transfering open source software practices and tools in the context of tangible products.
 \bigskip
 
-\subsection{Research goals}
-
-\emph{Without a substantive understanding of the historically changing character of the work done in a given organization, theories of design are likely to remain too general and abstract to capture the past vestiges and the emerging possibilities of design}\cite{ExpansiveDesign}
+\subsection{Research questions}
 
 \bigskip
 
-Design Theory and Methodology should study with carefull attention how open source works and evolves overtime. These implies analyzing the specific theories and methodologies used in open source projects, as well as those practices transfered to the domain of tangible products. Moreover this should lead to a more detailed description of how open source related theories, methodologies and practices.
-\bigskip
-
-The aim of this work is shed some light on key features of the open source approach to product development in software and hardware. To speficy more this endeavor we ask the following questions:
+Design Theory and Methodology should study with carefull attention how open source works and evolves overtime. These implies analyzing the specific theories and methodologies used in open source projects, as well as those practices transfered to the domain of tangible products. Moreover this should lead to a more detailed description on what specific theories,practices and methodologies are adopted in the open source context. To move ahead in this endeavor this research attempts to address the following questions:
 \bigskip
 
 \begin{itemize}
-  \item What characterizes design related activities in the context FOSS and FOSH?
-  \item Is there a particular structure or pattern in open source design that charaterizes open source projects?
+  \item What characterizes design and development activities in the context FOSS and FOSH?
+  \item How it differs from conventional theories and methodologies in the design domain?
 \end{itemize}
 
 
 \section{Methodology}
-This section describres the theoretical background we have used to analyzed six open source projects (three software and three hardware projects).We use the Activity Theory framework to study open source projects, with a specific focus on the peer-to-peer aspects of the process. Activity Theory studies human behavior in a holistic fashion, and rejects the notion of isolated individual action as a unit of analysis. The main reason to choose this framework is its convenience to study and describe human action and practices in a socio-technical system.
+\emph{Without a substantive understanding of the historically changing character of the work done in a given organization, theories of design are likely to remain too general and abstract to capture the past vestiges and the emerging possibilities of design}\cite{ExpansiveDesign}
+\bigskip
+
+This section describres the theoretical background we have used to analyzed six succesful open source projects (three software and three hardware projects).We use the Activity Theory framework to study open source projects, with a specific focus on the peer-to-peer aspects of the process. Activity Theory studies human behavior in a holistic fashion, and rejects the notion of isolated individual action as a unit of analysis. The main reason to choose this framework is its convenience to study and describe human action and practices in a socio-technical system.
 
 We firstly introduce the notion of commons based peer production, followed by a brief description of what  Activity Theory is and how we have used it to study the open source projects selected, with a special focus on the peer production dimension.
 
@@ -94,7 +92,8 @@ We firstly introduce the notion of commons based peer production, followed by a 
 \emph{In a sense, hardware is becoming much more like software, up to the point where you actually fabricate an object,"von Hippel says. "That's why you're starting to see open source techniques in hardware. Design is largely going to shift out from manufacturers to the communities}\cite{OH_works?}
 \bigskip
 
-The ammount of participants in open source projects can go from ten to thousands of persons, depending on the project/community. Most well known projects work in a very descentralized and open way and do not fit with traditional industrial paradigms. It has been found that in open source software projects, users lead directly the product development process in contrast with traditional roles in the software industries\cite{HowItWorks}.
+There is already a wide variety of studies and testimonies about the open source paradigm, including different perspectives, schools of thought, and research approaches. Most if not all of them point and/or try to describe and explain the open source model, this is the specific and most relevant relations that make many of the open source projects succesfull.
+
 \bigskip
 
 Authors like Eric Von Hippel \cite{hippel_2}, Benkler \cite{Benkler} and Bauwens \cite{p2pEconomy} study open source projects considering a community centered approach. In these context open source is understood as a socio-technical phenomenon consisting of key relations that includes cultural, ethical, economic, technological and societal aspects, as part ot their unit of analysis. These group of authors stress the notion of peer to peer based collaboration as a key element to understand this phenomenon. While Von Hippel calls it \emph{free user to user assistance}, Bauwens calls it peer to peer and Benkler refers to it as Commons Based Peer Production(CBPP). These authors emphasize a holistic approach to this phenomenon. They give particular attention to the conditions(social, economic, technological,cultural, etc) in which these models work, succeed and evolve.
@@ -111,79 +110,25 @@ P2P processes:}
   \item \emph{make use-value freely accessible on a universal basis, through new common property regimes. This is its distribution or 'peer property mode': a 'third mode of ownership,'different from private property or public (state) property.}
 \end{itemize}
 
-\subsubsection{Using Activity Theory to understand CBPP in open source projects}
-For a more in depth understanding of AT see \emph{Activity Theory in a Nutshell} \cite{ATnuthsell}. Introducing AT and its full potential of design research and practice goes beyond the scope of this work. The following description gives only a very simplified and summarized introduction to what is AT, and how we used it to study the projects.
+\subsubsection{Using Activity Theory to understand how CBPP operates in open source projects}
+In this work we used the Activity Modeling methodology developed by Larry Constantine to analyze and characterize in detail Activity Systems\cite{Constantine}. For a more in depth understanding of AT see \emph{Activity Theory in a Nutshell} \cite{ATnuthsell}.One of essential concepts of AT is that human action(individual and collective) are always oriented towards an \textbf{object}, and are mediated by \textbf{tools} in a social context(\textbf{community}).For instance a product development activity is always oriented towards a particular product, be it an Operating System, a 3D printer, or a microcontroller like Arduino. These activities are mediated by specific tools and artifacts including internalized knowledge about electronics, but also external artifacts such as as ossciloscopes, breadboards or a pencil and paper.
 
 \begin{figure}
-\includegraphics[width=\linewidth,height=\textheight,keepaspectratio]{Activity System.png}
-\caption{Figure caption here\label{fig1}}
+\includegraphics[width=\linewidth,height=\textheight,keepaspectratio]{AT.jpg}
+\caption{\label{fig1}The figure shows the main components of AT enriched by Engestrom\cite{}. The arrows between each componets express that each element in the diagram is shaped by the other elements.}
 \end{figure}
-
-\bigskip
-\textbf{Object-orientedness}– When a people design and develop, they always design/develop something (an Operating System, a 3D printer). \emp{The world pr
-ovides resistance and affordances to our attempts to reach the objects of our activities; through resistance and affordances, objects constrain and direct what we do. We also develop internal, subjective counterparts of the objects, which may be no less effective in constraining and directing our activities than the resistance and affordances of the world. Therefore,objects can be considered as both external and internal}
 \bigskip
 
-\textbf{Mediation}-First, tools shape the way human beings interact with reality. And, according to the principle of internalization–externalization, the shaping of external activities eventually results in the shaping of internal ones.econd,
-tools usually reflect the experience of other people who tried to solve similar problems earlier and invented or modified the tool to make it more efficient and effective. Their experience is accumulated in the structural properties of tools, such as their shape or material, as well as in the knowledge of how the tool should be used. Tools are created and transformed during the development of the activity itself and carry with them a particular culture—the historical evidence of their development. So the use of tools is an accumulation and transmission of social knowledge. It influences the nature of external behavior and also the mental functioning of individuals.
-
-
-\textbf{Subject or internalization} – actors engaged in the activities; the traditional notion of mental processes
-**Community or externalization** – social context; all actors involved in the activity system
-**Tools or tool mediation** – the artifacts (or concepts) used by actors in the system. Tools influence actor-structure interactions, they change with accumulating experience. In addition to physical shape, the knowledge also evolves. Tools are influenced by culture, and their use is a way for the accumulation and transmission of social knowledge. Tools influence both the agents and the structure.
-**Division of labor** – social strata, hierarchical structure of activity, the division of activities among actors in the system
-**Rules** – conventions, guidelines and rules regulating activities in the system
-
-
-\subsection{Open source projects for hardware and software}
-
-\subsection{Research questions}
-This works a step forward towards understanding
-
-
-\subsubsection{Understanding design activity in the context of peer production}
-
-\section{Methodology}
-This work attempts to capture significant aspects of peer to peer dynamics in the context of open source projects. To map these contexts we use Activity Theory framework[REFERENCE]. This framework allowed us to capture patterns of behavior and collaborative dynamics similarities and differences, beyond the specificities of what tools or systems are used, how tools reflect intagible aspects of socio-technical systems like values, motivations, community rules as well as roles within collaborative dynamics.
-\subsection{Specifying free based peer production}
-- [ ] Peer to peer happens everywhere, but open collaborative peer to peer means that also unknown peers, in many cases directed unrelated with other peers geographically, ....
-\subsection{An overview of  the Activity Theory framework}
-This research uses the expanded Activity Theory framework developed by Engestrom [REFERENCE]. This framework provides a consistent model to analyze collective processes like product design and development as part of a social context. This approach considers tools and procedures as part of a broader set of human interactions.
-\subsection{Experimental design}
-\iffalse
-    here I explain the case selected, the rationale behind this selection, as well as the materials used, but also specific questions to answer the general questions,
-\fi
-We describe at a Meso level these projects as activity  systems that evolve overtime, and how their community composition, activity objects, as well as roles, rules, and artifacts reflect such evolution. Furthermore we attempt to describe how the outcomes of the activity system develop, along with the activity structure.
-
-The two sets of cases (three for software, and three for hardware) are analyzed independently with respect to their own differences and similarities considering the different components of the Activity System model.
-- What is the main object of the activity
-- What is the main outcome(s) or product(s) of such activity
-- What rules and tools they use to organize their collaboration
-- What interesting aspects stand out in the case with regard to the outcomes, motivations, expectations as well as the collaboration process.
-
-
-
-- Case study of diverse open source software and hardware projects with different characteristics:
-We selected projects that present basic similarities with regard to basic freedoms mentioned in the previous section:
-- For both sets of cases there is considerable difference in scope, product architecture, documentation, participation,tools but also in age. These set allows us to verify how time reflects in project maturity, adoption of modern practices, but also consistencies regardless of these differences.
-- For the software projects there is a main similarity: they all use git based peer review tools.
-
-### Materials
-- Interviews and talks from founders of free software and open source movement.
-- Forums of different projects like RepRap.
-- Project and product documentation
-- The Authors familiarity with certain open source projects.
-- The availability of data like discussions, documentation, and resources to pursue this study.
-
-### Procedure
-
-Later on key differences and similarities between the two sets are described and discussed considering also the same questions points.
+ These activities always take place within a social context, be it a software development team, a maker space, etc. Communities have more shared \textbf{rules}, for instance safety measurements to work on a workshop, and \textbf{division of labor} or roles; for example peer review of a CAD design file, or testing code delivered by other team members.\textbf{Outcomes} stand for the actual products and impacts produced as a result of the Activity Systems dynamics.
+ The most important aspect of these model \textf{development}, which refers to the dialectical interdepency of these components, as part of a dynamic historical process. For instance in the case of the Git version control system (\textbf{tool}), \textbf{rules} and \textbf{division of labor} issues in the context of collaborative software development are addressed by designed, as part of the structure and design specifications of the tool. As it shall be seen in the \emph{Findings} description, activity systems evolve and transform overtime, very often confronting contradictions and limitations as part of their organic development.
 
 \section{Findings}
 
-In this section we expose some prominent characteristics of the peer to peer interactions using the Activity Theory framework. We study at a very general level how peer to peer relations and interactions are reflected on the artifacts, object, subject, community, rules and division of labor components of the Activity System model.
+In this research we have used AT to characterize open source projects, and verify if and how CBPP takes place. Each project has been modeled as an activity system giving particular attention to the structural components of the model: the activity object, the subject, tools that mediate the project, collective activities , as well as the community composition, the rules and division of labor. The ammount of participants in open source projects can go from ten to thousands of persons, depending on the project/community. Most well known projects work in a very descentralized and open way and do not fit with traditional industrial paradigms. It has been found that in open source software projects, users lead directly the product development process in contrast with traditional roles in the software industries\cite{HowItWorks}.
 
-\subsection{Essential artifacts in free based peer production activities}
+The results
+
+\subsection{Essential artifacts in CBPP activities}
 From an Activity Theory stand point we can identify many artifacts within open source projects based on the different processes that take place. Mapping out all these artifacts is beyond the scope of this work. Nevertheless there are specific artifacts that are essential to enable an open and horizontal peer to peer collaborative process, or what we have been calling peer production artifacts:
 - **Foundational artifacts**. These kind of artifacts describe in broader terms the main rules of the game for open source projects. Among these artifacts we can find perhaps the most important which is the **license** under which the content(source) is released (open) to the public.**Licenses** describe in legal terms what can and cannot be done with the source code ranging from ethical issues to commercial and distribution issues. They also often describe how to give credit to authors, and properly
 release new improvements, but also distribute the content and more. It is interesting to notice that since the FREE Software licenses were created, every open source project has adopted or created similar licenses to distribute and share code, but also visual images as well as CAD files. There are other artifacts the specify how to contribute to the project often called *contributing guidelines*, but also the code of conduct, and instructions on how to participate.
@@ -297,6 +242,9 @@ Similarly Gitlab was started based on a need to collaborate on software developm
 
   \bibitem{p2pEconomy}Bauwens, M., 2005. The political economy of peer production. CTheory, pp.12-1.
 
+  \bibitem{Constantine}Constantine, L.L., 2009. Human activity modeling: toward a pragmatic integration of activity theory and usage-centered design. In Human-centered software engineering (pp. 27-51). Springer, London.
+
+  \bibitem{ATnuthsell}Kaptelinin, V. and Nardi, B.A., 2006. Activity theory in a nutshell. Acting with technology: Activity Theory and interaction design, pp.29-72.
 
 \end{thebibliography}
 \section*{Acknowledgments}
